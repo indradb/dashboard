@@ -1,0 +1,27 @@
+{
+  "name": "indradb-dashboard",
+  "version": "0.1.0",
+  "description": "Dashboard for IndraDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/indradb/dashboard.git"
+  },
+  "author": "",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/indradb/dashboard/issues"
+  },
+  "homepage": "https://github.com/indradb/dashboard#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "express-graphql": "^0.6.12",
+    "express-http-proxy": "^1.2.0",
+    "graphiql": "^0.11.11",
+    "graphql": "^0.13.2"
+  }
+}
