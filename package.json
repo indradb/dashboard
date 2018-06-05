@@ -17,11 +17,18 @@
   },
   "homepage": "https://github.com/indradb/dashboard#readme",
   "dependencies": {
-    "ejs": "^2.6.1",
+    "es6-promise": "^4.2.4",
     "express": "^4.16.3",
-    "express-graphql": "^0.6.12",
     "express-http-proxy": "^1.2.0",
     "graphiql": "^0.11.11",
-    "graphql": "^0.13.2"
+    "graphql": "^0.13.2",
+    "react": "^16.4.0",
+    "react-dom": "^16.4.0",
+    "whatwg-fetch": "^2.0.4"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.3",
+    "babel-preset-react": "^6.24.1"
   }
 }

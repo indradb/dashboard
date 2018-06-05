@@ -1,3 +1,6 @@
+static/lib
+static/index.js
+
 # Logs
 logs
 *.log
